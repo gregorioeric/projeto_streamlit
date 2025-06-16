@@ -1,6 +1,6 @@
 # projeto_streamlit<div style="color: white">
 
-<h1 style="font-size: 3rem; display: flex; "><img src="./aula_04/img/image-3.png" width="50" height="53">
+<h1 style="font-size: 3rem; display: flex; "><img src="./img/image-3.png" width="50" height="53">
 Aprendendo Streamlit</h1>
 
 ## Iniciando a instalação do Streamlit
@@ -11,7 +11,7 @@ Aprendendo Streamlit</h1>
 
 Após a executar o comando terá criado uma pasta com o nome **.venv** na raiz da pasta, no exemplo abaixo podemos ver que a pasta **.venv** foi criada com sucesso dentro da pasta raiz que é a pasta **aula_04**.
 
-<img src="./aula_04/img/pasta_venv.png">
+<img src="./img/pasta_venv.png">
 
 ---
 
@@ -21,7 +21,7 @@ Após a executar o comando terá criado uma pasta com o nome **.venv** na raiz d
 
 Após digitar o comando acima click enter, note que no terminal irá aparecer destacado em verde o nome da pasta venv antes do PS, observe a imagem abaixo como ficará:
 
-<img src="./aula_04/img/venv_ambiente.png">
+<img src="./img/venv_ambiente.png">
 
 ---
 
